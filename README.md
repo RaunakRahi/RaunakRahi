@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaunakRahi
-- 👀 I’m interested in Machine learning and Cloud Computing
-- 🌱 I’m currently learning Python with dsa
+- 👀 I’m interested in Machine learning and Coding.
+- 🌱 I’m currently learning Python with dsa.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via my Email id- raunakkumarcse@gmail.com
 
